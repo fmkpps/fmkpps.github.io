@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fmkpps.github.io/sitemap.xml
